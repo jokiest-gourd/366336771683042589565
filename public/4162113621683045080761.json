@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "625904550930",
+    "project_id": "forrerst-master",
+    "storage_bucket": "forrerst-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625904550930:android:a6d6549a014ce0dbdc04cb",
+        "android_client_info": {
+          "package_name": "com.pesada.danamu.fintekguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625904550930-9m6vvm0suctvb4ibf4vbs8ksmrtv81c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0Ct7Fg0cpXydQKwHVuuH1x5KZobkkS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625904550930-9m6vvm0suctvb4ibf4vbs8ksmrtv81c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+  "configuration_version": "1"
+}
